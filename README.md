@@ -19,4 +19,3 @@ You can click the Preview link to take a look at your changes.
 <span>  </span>
 </div>
 
-![](https://komarev.com/ghpvc/?username=NeuralFalconYT&color=dc143c)
