@@ -18,3 +18,5 @@ You can click the Preview link to take a look at your changes.
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=NeuralFalconYT&theme=react" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeuralFalconYT&layout=compact&langs_count=10&theme=react" />
 <span>  </span>
 </div>
+
+![](https://komarev.com/ghpvc/?username=NeuralFalconYT&color=dc143c)
