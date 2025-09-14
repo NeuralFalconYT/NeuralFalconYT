@@ -35,6 +35,9 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+## ☕ Support Me  
+
+If you like my work, you can [buy me a coffee](https://ko-fi.com/neuralfalcon) 💙  
 
 ## 📫 How to reach me  
 
