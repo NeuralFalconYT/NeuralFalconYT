@@ -10,7 +10,7 @@
 
 NeuralFalconYT/NeuralFalconYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 # 👋 Hi, I’m Neural Falcon  
 
 - 👀 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**  
@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 - Actively seeking **internship and entry-level opportunities** to apply my knowledge and grow in real-world environments  
 
 ---
-
+--->
 ## ☕ Support Me  
 
 If you like my work, you can [buy me a coffee](https://ko-fi.com/neuralfalcon) 💙  
