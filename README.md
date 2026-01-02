@@ -1,15 +1,4 @@
-<!---
-- 👋 Hi, I’m @NeuralFalconYT
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-
-NeuralFalconYT/NeuralFalconYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 
 # 👋 Hi, I’m Neural Falcon  
 
@@ -34,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 - Actively seeking **internship and entry-level opportunities** to apply my knowledge and grow in real-world environments  
 
 ---
---->
+
 ## ☕ Support Me  
 
 If you like my work, you can [buy me a coffee](https://ko-fi.com/neuralfalcon) 💙  
@@ -43,7 +32,7 @@ If you like my work, you can [buy me a coffee](https://ko-fi.com/neuralfalcon) �
 
 - 📧 Email: [NeuralFalcon@proton.me](mailto:NeuralFalcon@proton.me)  
 
-
+<!--
 <br>
 <br>
 <br>
@@ -52,4 +41,4 @@ If you like my work, you can [buy me a coffee](https://ko-fi.com/neuralfalcon) �
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=NeuralFalconYT&theme=react" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeuralFalconYT&layout=compact&langs_count=10&theme=react" />
 <span>  </span>
 </div>
-
+-->
