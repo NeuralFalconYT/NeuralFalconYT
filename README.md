@@ -20,7 +20,7 @@
 
 - I am a **fresher** with strong Python programming skills   
 - While I haven’t worked with a company yet, I have built **personal and academic projects** showcasing my skills  
-- Actively seeking **internship and entry-level opportunities** to apply my knowledge and grow in real-world environments  
+<!-- - Actively seeking **internship and entry-level opportunities** to apply my knowledge and grow in real-world environments   -->
 
 ---
 
