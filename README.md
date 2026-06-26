@@ -24,9 +24,6 @@
 
 ---
 
-## ☕ Support Me  
-
-If you like my work, you can [buy me a coffee](https://ko-fi.com/neuralfalcon) 💙  
 
 ## 📫 How to reach me  
 
